@@ -14,11 +14,10 @@ Syntax highlighted code block
 # Nathan Walsh's First CS193 Homework
 
 
-- Bulleted
-- List
+- I will learn the tools necessary to be sucessful in my major.
+- I am excited to learn how tools can assist my productivity.
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
